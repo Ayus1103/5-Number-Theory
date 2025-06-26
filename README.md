@@ -115,9 +115,3 @@ lst_marks = [-50, -60, 45, 32, 56, 75, 89, 54, 32, 89, 90, 87, 67, 54, 45, 98, 9
 1. Replace `lst_marks` with your own data.
 2. Run each code cell in sequence.
 3. View the box plot image output for visual analysis.
-
-## **References**
-
-- [1] Code and explanations are based on the provided Jupyter notebook file: 5_Number_Summary_Box_Plot.ipynb.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/77304719/bfeb2a89-4f68-44cc-802e-fb425353d644/5_Number_Summary_Box_Plot.ipynb
